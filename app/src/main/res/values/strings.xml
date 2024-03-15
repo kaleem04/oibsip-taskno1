@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unii-converter</string>
+    <string name="app_title">Unit Converter App</string>
+    <string name="enter_the_weight_in_kg">Enter the weight in Kg Below</string>
+    <string name="hint">Enter the weight in Kg</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result in Pounds</string>
+    <string name="please_enter_a_value">Please enter a value</string>
+    <string name="the_corresponding_value_in_pounds_is">"The corresponding value in pounds is "</string>
+</resources>
